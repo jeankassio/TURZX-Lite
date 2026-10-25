@@ -1,0 +1,12 @@
+.tools/
+**/bin/
+**/obj/
+research/
+dist/
+artifacts/
+*.user
+.vs/
+*.suo
+*.log
+.env
+.env.*
